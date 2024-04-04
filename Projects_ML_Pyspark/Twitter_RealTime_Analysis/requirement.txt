@@ -1,0 +1,7 @@
+# Requirements for Twettir Real-Time Data Analysis
+pyspark
+tweepy
+nltk
+textblob
+matplotlib
+seaborn
