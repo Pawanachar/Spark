@@ -1,7 +1,19 @@
 ```markdown
 # Twettir Real-Time Data Analysis
 
-A PySpark project for performing real-time analysis on data from Twettir (a hypothetical social media platform).
+A PySpark project for performing real-time analysis on data from Twettir.
+
+## Latest Updates
+
+**Commit:** Added files via upload for the following components:
+
+- `Sentiment Analysis on twitter data.ipynb`
+- `analysis.ipynb`
+- `conn.ipynb`
+- `getTweetsStreaming.ipynb`
+- `hashtagTrends (1).ipynb`
+
+This commit introduces Jupyter Notebooks for various data analysis tasks on the Twettir data stream, including sentiment analysis, data exploration, connecting to the data source, streaming tweets, and analyzing hashtag trends.
 
 ## Quick Start
 
@@ -23,12 +35,13 @@ This will start the real-time data analysis process on the Twettir data stream.
 - `data_analysis/` - Modules for real-time data analysis tasks
 - `utils/` - Utility functions and helpers
 - `notebooks/` - Jupyter Notebooks for exploration and prototyping
+  - `Sentiment Analysis on twitter data.ipynb`
+  - `analysis.ipynb`
+  - `conn.ipynb`
+  - `getTweetsStreaming.ipynb`
+  - `hashtagTrends (1).ipynb`
 
-## License
 
-[MIT License](LICENSE)
-
----
 
 # Music Streaming Recommendation Engine
 
@@ -54,8 +67,3 @@ This will start the music recommendation engine process.
 - `recommendation_engine/` - Modules for recommendation tasks
 - `utils/` - Utility functions and helpers
 - `notebooks/` - Jupyter Notebooks for exploration and prototyping
-
-## License
-
-[MIT License](LICENSE)
-```
