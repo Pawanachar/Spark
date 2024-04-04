@@ -1,0 +1,5 @@
+# Requirements for Music Streaming Recommendation Engine
+pyspark
+pandas
+scikit-surprise
+implicit
