@@ -65,5 +65,3 @@ This will start the music recommendation engine process.
 
 - `recommendation_engine.py` - Main script for the recommendation engine
 - `recommendation_engine/` - Modules for recommendation tasks
-- `utils/` - Utility functions and helpers
-- `notebooks/` - Jupyter Notebooks for exploration and prototyping
